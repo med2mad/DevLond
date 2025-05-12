@@ -1648,7 +1648,6 @@ section,
   line-height: 24px;
   margin: 0 30px 0 0;
   transition: 0.3s;
-  cursor: pointer;
   display: flex;
   align-items: center;
 }
@@ -1658,9 +1657,6 @@ section,
   padding-right: 5px;
 }
 
-.faq .faq-container .faq-item h3:hover {
-  color: var(--accent-color);
-}
 
 .faq .faq-container .faq-item .faq-content {
   display: grid;
